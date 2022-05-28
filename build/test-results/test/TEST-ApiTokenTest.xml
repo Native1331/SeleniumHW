@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ApiTokenTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-28T21:46:26" hostname="NTB-NEDRA136" time="0.105">
-  <properties/>
-  <testcase name="testLocalFile()" classname="ApiTokenTest" time="0.102"/>
-  <testcase name="testClasspath()" classname="ApiTokenTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
